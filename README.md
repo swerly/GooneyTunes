@@ -20,6 +20,6 @@ Bot for discord
 
 ## Running
 1. Open powershell / cmd in the root folder and run `node index.js`
-  1.a Make sure console output says `Listening on 8888`
-2. Open web browser and go to `localhost:8888`
-3. Follow instructions to login to spotify
+2. Make sure console output says `Listening on 8888`
+3. Open web browser and go to `localhost:8888`
+4. Follow instructions to login to spotify
